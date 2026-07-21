@@ -1,0 +1,26 @@
+[
+  { "propId": "B164", "parkName": "Bath Beach Playground", "lat": 40.602491, "lon": -74.011066, "courtCount": 2, "source": "personal"},
+  { "propId": "B277" , "parkName": "Benson Playground" , "lat": 40.6027, "lon": -74.0025, "courtCount": 2, "source": "personal"},
+  { "propId": "B028" , "parkName": "Dyker Beach Park" , "lat": 40.6126, "lon": -74.0126, "courtCount": 4, "source": "personal"},
+  { "propId": "B106A" , "parkName": "Scangrella Park" , "lat": 40.5947, "lon": -73.9843, "courtCount": null, "source": "nyc_open_data"},
+  { "propId": "B060" , "parkName": "McKinley Park" , "lat": 40.6262, "lon": -74.0166, "courtCount": 2, "source": "nyc_open_data"},
+  { "propId": "B099" , "parkName": "Lt. Joseph Petrosino Playground" , "lat": 40.6189, "lon": -73.9985, "courtCount": null, "source": "nyc_open_data"},
+  { "propId": "B007" , "parkName": "Bensonhurst Park" , "lat": 40.5977, "lon": -74.0011, "courtCount": null, "source": "nyc_open_data"},
+  { "propId": "B082" , "parkName": "Shore Road Park" , "lat": 40.6312, "lon": -74.0397, "courtCount": 3, "source": "personal"},
+  { "propId": "B192" , "parkName": "Russell Pederson Playground" , "lat": 40.6261, "lon": -74.0361, "courtCount": 3, "source": "personal"},
+  { "propId": "B152" , "parkName": "Rappaport Playground" , "lat": 40.6368, "lon": -74.0006, "courtCount": null, "source": "nyc_open_data"},
+  { "propId": "B087" , "parkName": "Sunset Park" , "lat": 40.6481, "lon": -74.0031, "courtCount": null, "source": "nyc_open_data"},
+  { "propId": "B100" , "parkName": "Seth Low Playground" , "lat": 40.6079, "lon": -73.9859, "courtCount": null, "source": "nyc_open_data"},
+  { "propId": "B272" , "parkName": "Marlboro Houses Playground" , "lat": 40.5911, "lon": -73.9808, "courtCount": null, "source": "nyc_open_data"},
+  { "propId": "B129" , "parkName": "Leon S. Kaiser Playground" , "lat": 40.5784, "lon": -73.9962, "courtCount": null, "source": "nyc_open_data"},
+  { "propId": "B431" , "parkName": "Brooklyn Bridge Park" , "lat": 40.6992, "lon": -73.9983, "courtCount": 5, "source": "nyc_open_data"},
+  { "propId": "B296" , "parkName": "Luna Park Houses Playground" , "lat": 40.5758, "lon": -73.978, "courtCount": null, "source": "nyc_open_data"},
+  { "propId": "B331" , "parkName": "Neptune Playground" , "lat": 40.5781, "lon": -73.9808, "courtCount": null, "source": "nyc_open_data"},
+  { "propId": "B135" , "parkName": "Surf Playground" , "lat": 40.5738, "lon": -73.9924, "courtCount": null, "source": "nyc_open_data"},
+  { "propId": "B252" , "parkName": "West Playground" , "lat": 40.5876, "lon": -73.9705, "courtCount": null, "source": "nyc_open_data"},
+  { "propId": "B275" , "parkName": "William Grady HS Playground", "lat": 40.5825, "lon": -73.9647, "courtCount": null, "source": "nyc_open_data"}
+
+  
+]
+
+  
